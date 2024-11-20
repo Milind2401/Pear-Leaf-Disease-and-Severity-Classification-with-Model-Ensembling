@@ -12,6 +12,10 @@ The primary challenge addressed in this project is the need for highly accurate 
 **Models G-Drive Link**<br />
 [All Trained Models](https://drive.google.com/drive/folders/13T2U6HAjufGfvqBXAJZeWL_TFMlaxhc8?usp=sharing)
 
+**Dataset**<br/>
+DiaMOS Plant, is a dataset for diagnosis and monitoring plant disease, collected in the field, consisting of 3505 images, depicting 4 leaf diseases with 4 level of severity and 4 fruit stages.<br/>
+[DiaMOS Plant Dataset](https://doi.org/10.5281/zenodo.5557313).<br/>
+
 **Group Members**<br />
 Milind Dadore<br />
 Nikhil Richhariya<br />
