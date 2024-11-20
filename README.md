@@ -13,10 +13,11 @@ To apply ensembling on classifcation models.
 [All Trained Models](https://drive.google.com/drive/folders/13T2U6HAjufGfvqBXAJZeWL_TFMlaxhc8?usp=sharing)
 
 **Group Members**<br />
-Milind Dadore
-Nikhil Richhariya
-Nipun Kupatkar
-Pranav Rathi
+Milind Dadore<br />
+Nikhil Richhariya<br />
+Nipun Kupatkar<br />
+Pranav Rathi<br />
 
 **Group Guide**<br />
-Prof. Dilipkumar Borikar, RBU Nagpur, Maharashtra
+Prof. Dilipkumar Borikar<br /> 
+RBU Nagpur, Maharashtra
