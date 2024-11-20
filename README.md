@@ -9,7 +9,7 @@ The primary challenge addressed in this project is the need for highly accurate 
 * To measure key metrics like accuracy, precision, recall, and F1-score for model comparison.<br />
 * To apply ensembling on classifcation models.<br />
 
-**Model G-Drive Link**<br />
+**Models G-Drive Link**<br />
 [All Trained Models](https://drive.google.com/drive/folders/13T2U6HAjufGfvqBXAJZeWL_TFMlaxhc8?usp=sharing)
 
 **Group Members**<br />
